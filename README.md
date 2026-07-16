@@ -1,4 +1,3 @@
-div align="center">
 <img src="./banner.png" alt="Banner - Muhammad Vallentino Akbar" width="100%">
 <br>
 <a href="https://github.com/tvallen819">
